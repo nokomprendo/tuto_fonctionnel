@@ -1,4 +1,4 @@
 # tuto_fonctionnel
 
-moved to framagit: <https://framagit.org/nokomprendo/tuto_fonctionnel>
+moved to gitlab: <https://nokomprendo.gitlab.io>
 
